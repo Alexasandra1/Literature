@@ -1,0 +1,360 @@
+D:\123\Literature.WebApi\bin\Debug\net7.0\appsettings.Development.json
+D:\123\Literature.WebApi\bin\Debug\net7.0\appsettings.json
+D:\123\Literature.WebApi\bin\Debug\net7.0\Literature.WebApi.exe
+D:\123\Literature.WebApi\bin\Debug\net7.0\Literature.WebApi.deps.json
+D:\123\Literature.WebApi\bin\Debug\net7.0\Literature.WebApi.runtimeconfig.json
+D:\123\Literature.WebApi\bin\Debug\net7.0\Literature.WebApi.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\Literature.WebApi.pdb
+D:\123\Literature.WebApi\bin\Debug\net7.0\Azure.Core.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\Azure.Identity.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\Humanizer.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\Npgsql.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\System.CodeDom.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\System.Memory.Data.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\Literature.Database.dll
+D:\123\Literature.WebApi\bin\Debug\net7.0\Literature.Database.pdb
+D:\123\Literature.WebApi\obj\Debug\net7.0\Literature.WebApi.csproj.AssemblyReference.cache
+D:\123\Literature.WebApi\obj\Debug\net7.0\Literature.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\123\Literature.WebApi\obj\Debug\net7.0\Literature.WebApi.AssemblyInfoInputs.cache
+D:\123\Literature.WebApi\obj\Debug\net7.0\Literature.WebApi.AssemblyInfo.cs
+D:\123\Literature.WebApi\obj\Debug\net7.0\Literature.WebApi.csproj.CoreCompileInputs.cache
+D:\123\Literature.WebApi\obj\Debug\net7.0\Literature.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\123\Literature.WebApi\obj\Debug\net7.0\Literature.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\123\Literature.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.Literature.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\123\Literature.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.Literature.WebApi.props
+D:\123\Literature.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Literature.WebApi.props
+D:\123\Literature.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Literature.WebApi.props
+D:\123\Literature.WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\123\Literature.WebApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\123\Literature.WebApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\123\Literature.WebApi\obj\Debug\net7.0\scopedcss\bundle\Literature.WebApi.styles.css
+D:\123\Literature.WebApi\obj\Debug\net7.0\Literature.WebApi.csproj.CopyComplete
+D:\123\Literature.WebApi\obj\Debug\net7.0\Literature.WebApi.dll
+D:\123\Literature.WebApi\obj\Debug\net7.0\refint\Literature.WebApi.dll
+D:\123\Literature.WebApi\obj\Debug\net7.0\Literature.WebApi.pdb
+D:\123\Literature.WebApi\obj\Debug\net7.0\Literature.WebApi.genruntimeconfig.cache
+D:\123\Literature.WebApi\obj\Debug\net7.0\ref\Literature.WebApi.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\appsettings.Development.json
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\appsettings.json
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Literature.WebApi.exe
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Literature.WebApi.deps.json
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Literature.WebApi.runtimeconfig.json
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Literature.WebApi.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Literature.WebApi.pdb
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Azure.Core.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Azure.Identity.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Humanizer.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Npgsql.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\System.CodeDom.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\System.Memory.Data.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Literature.Database.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\bin\Debug\net7.0\Literature.Database.pdb
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\obj\Debug\net7.0\Literature.WebApi.csproj.AssemblyReference.cache
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\obj\Debug\net7.0\Literature.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\obj\Debug\net7.0\Literature.WebApi.AssemblyInfoInputs.cache
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\obj\Debug\net7.0\Literature.WebApi.AssemblyInfo.cs
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\obj\Debug\net7.0\Literature.WebApi.csproj.CoreCompileInputs.cache
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\obj\Debug\net7.0\Literature.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\obj\Debug\net7.0\Literature.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.Literature.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.Literature.WebApi.props
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Literature.WebApi.props
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Literature.WebApi.props
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\obj\Debug\net7.0\scopedcss\bundle\Literature.WebApi.styles.css
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\obj\Debug\net7.0\Literature.WebApi.csproj.CopyComplete
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\obj\Debug\net7.0\Literature.WebApi.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\obj\Debug\net7.0\refint\Literature.WebApi.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\obj\Debug\net7.0\Literature.WebApi.pdb
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\obj\Debug\net7.0\Literature.WebApi.genruntimeconfig.cache
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.WebApi\obj\Debug\net7.0\ref\Literature.WebApi.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\appsettings.Development.json
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\appsettings.json
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Literature.WebApi.exe
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Literature.WebApi.deps.json
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Literature.WebApi.runtimeconfig.json
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Literature.WebApi.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Literature.WebApi.pdb
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Azure.Core.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Azure.Identity.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Humanizer.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Npgsql.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\System.CodeDom.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\System.Memory.Data.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Literature.Database.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\bin\Debug\net7.0\Literature.Database.pdb
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\obj\Debug\net7.0\Literature.WebApi.csproj.AssemblyReference.cache
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\obj\Debug\net7.0\Literature.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\obj\Debug\net7.0\Literature.WebApi.AssemblyInfoInputs.cache
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\obj\Debug\net7.0\Literature.WebApi.AssemblyInfo.cs
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\obj\Debug\net7.0\Literature.WebApi.csproj.CoreCompileInputs.cache
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\obj\Debug\net7.0\Literature.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\obj\Debug\net7.0\Literature.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.Literature.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.Literature.WebApi.props
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Literature.WebApi.props
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Literature.WebApi.props
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\obj\Debug\net7.0\scopedcss\bundle\Literature.WebApi.styles.css
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\obj\Debug\net7.0\Literature.WebApi.csproj.CopyComplete
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\obj\Debug\net7.0\Literature.WebApi.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\obj\Debug\net7.0\refint\Literature.WebApi.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\obj\Debug\net7.0\Literature.WebApi.pdb
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\obj\Debug\net7.0\Literature.WebApi.genruntimeconfig.cache
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.WebApi\obj\Debug\net7.0\ref\Literature.WebApi.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\appsettings.Development.json
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\appsettings.json
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Literature.WebApi.exe
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Literature.WebApi.deps.json
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Literature.WebApi.runtimeconfig.json
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Literature.WebApi.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Literature.WebApi.pdb
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Azure.Core.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Azure.Identity.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Humanizer.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Npgsql.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\System.CodeDom.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\System.Memory.Data.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Literature.Database.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\bin\Debug\net7.0\Literature.Database.pdb
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\obj\Debug\net7.0\Literature.WebApi.csproj.AssemblyReference.cache
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\obj\Debug\net7.0\Literature.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\obj\Debug\net7.0\Literature.WebApi.AssemblyInfoInputs.cache
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\obj\Debug\net7.0\Literature.WebApi.AssemblyInfo.cs
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\obj\Debug\net7.0\Literature.WebApi.csproj.CoreCompileInputs.cache
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\obj\Debug\net7.0\Literature.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\obj\Debug\net7.0\Literature.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.Literature.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.Literature.WebApi.props
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Literature.WebApi.props
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Literature.WebApi.props
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\obj\Debug\net7.0\scopedcss\bundle\Literature.WebApi.styles.css
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\obj\Debug\net7.0\Literature.WebApi.csproj.CopyComplete
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\obj\Debug\net7.0\Literature.WebApi.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\obj\Debug\net7.0\refint\Literature.WebApi.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\obj\Debug\net7.0\Literature.WebApi.pdb
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\obj\Debug\net7.0\Literature.WebApi.genruntimeconfig.cache
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.WebApi\obj\Debug\net7.0\ref\Literature.WebApi.dll

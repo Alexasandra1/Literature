@@ -1,0 +1,56 @@
+D:\123\Literature.Database\bin\Debug\net7.0\Literature.Database.deps.json
+D:\123\Literature.Database\bin\Debug\net7.0\Literature.Database.runtimeconfig.json
+D:\123\Literature.Database\bin\Debug\net7.0\Literature.Database.dll
+D:\123\Literature.Database\bin\Debug\net7.0\Literature.Database.pdb
+D:\123\Literature.Database\obj\Debug\net7.0\Literature.Database.csproj.AssemblyReference.cache
+D:\123\Literature.Database\obj\Debug\net7.0\Literature.Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\123\Literature.Database\obj\Debug\net7.0\Literature.Database.AssemblyInfoInputs.cache
+D:\123\Literature.Database\obj\Debug\net7.0\Literature.Database.AssemblyInfo.cs
+D:\123\Literature.Database\obj\Debug\net7.0\Literature.Database.csproj.CoreCompileInputs.cache
+D:\123\Literature.Database\obj\Debug\net7.0\Literature.Database.dll
+D:\123\Literature.Database\obj\Debug\net7.0\refint\Literature.Database.dll
+D:\123\Literature.Database\obj\Debug\net7.0\Literature.Database.pdb
+D:\123\Literature.Database\obj\Debug\net7.0\Literature.Database.genruntimeconfig.cache
+D:\123\Literature.Database\obj\Debug\net7.0\ref\Literature.Database.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.Database\bin\Debug\net7.0\Literature.Database.deps.json
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.Database\bin\Debug\net7.0\Literature.Database.runtimeconfig.json
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.Database\bin\Debug\net7.0\Literature.Database.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.Database\bin\Debug\net7.0\Literature.Database.pdb
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.Database\obj\Debug\net7.0\Literature.Database.csproj.AssemblyReference.cache
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.Database\obj\Debug\net7.0\Literature.Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.Database\obj\Debug\net7.0\Literature.Database.AssemblyInfoInputs.cache
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.Database\obj\Debug\net7.0\Literature.Database.AssemblyInfo.cs
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.Database\obj\Debug\net7.0\Literature.Database.csproj.CoreCompileInputs.cache
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.Database\obj\Debug\net7.0\Literature.Database.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.Database\obj\Debug\net7.0\refint\Literature.Database.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.Database\obj\Debug\net7.0\Literature.Database.pdb
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.Database\obj\Debug\net7.0\Literature.Database.genruntimeconfig.cache
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\трпо\123\Literature.Database\obj\Debug\net7.0\ref\Literature.Database.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.Database\bin\Debug\net7.0\Literature.Database.deps.json
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.Database\bin\Debug\net7.0\Literature.Database.runtimeconfig.json
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.Database\bin\Debug\net7.0\Literature.Database.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.Database\bin\Debug\net7.0\Literature.Database.pdb
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.Database\obj\Debug\net7.0\Literature.Database.csproj.AssemblyReference.cache
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.Database\obj\Debug\net7.0\Literature.Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.Database\obj\Debug\net7.0\Literature.Database.AssemblyInfoInputs.cache
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.Database\obj\Debug\net7.0\Literature.Database.AssemblyInfo.cs
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.Database\obj\Debug\net7.0\Literature.Database.csproj.CoreCompileInputs.cache
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.Database\obj\Debug\net7.0\Literature.Database.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.Database\obj\Debug\net7.0\refint\Literature.Database.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.Database\obj\Debug\net7.0\Literature.Database.pdb
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.Database\obj\Debug\net7.0\Literature.Database.genruntimeconfig.cache
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\123\Literature.Database\obj\Debug\net7.0\ref\Literature.Database.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.Database\bin\Debug\net7.0\Literature.Database.deps.json
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.Database\bin\Debug\net7.0\Literature.Database.runtimeconfig.json
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.Database\bin\Debug\net7.0\Literature.Database.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.Database\bin\Debug\net7.0\Literature.Database.pdb
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.Database\obj\Debug\net7.0\Literature.Database.csproj.AssemblyReference.cache
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.Database\obj\Debug\net7.0\Literature.Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.Database\obj\Debug\net7.0\Literature.Database.AssemblyInfoInputs.cache
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.Database\obj\Debug\net7.0\Literature.Database.AssemblyInfo.cs
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.Database\obj\Debug\net7.0\Literature.Database.csproj.CoreCompileInputs.cache
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.Database\obj\Debug\net7.0\Literature.Database.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.Database\obj\Debug\net7.0\refint\Literature.Database.dll
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.Database\obj\Debug\net7.0\Literature.Database.pdb
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.Database\obj\Debug\net7.0\Literature.Database.genruntimeconfig.cache
+D:\БРУ\ЛАБОРАТОРНЫЕ РАБОТЫ\3 курс\1сем\трпо\backend\Literature.Database\obj\Debug\net7.0\ref\Literature.Database.dll
