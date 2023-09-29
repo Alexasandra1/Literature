@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'Margarine';
+    src: url("https://fonts.cdnfonts.com/css/margarine") format('wolf2');
+}
+
+.mainPage__input {
+    .input__input {
+        margin: 30px;
+    }
+}
+
+.mainPage__firstSection {
+    display: table;
+    margin: auto;
+    width: 1440px;
+    height: 747px;
+    font-family: Margarine, Arial, Helvetica, sans-serif;
+    background: linear-gradient(rgba(20, 19, 19, 1), rgba(17, 0, 0, 1));
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+
+.mainPage__firstSection__leftArea__litlib {
+    color: #A8A6A6;
+    text-transform: uppercase;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.mainPage__firstSection__leftArea__regis {
+    color: #C9C9C9;
+    font-size: 70px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-bottom: 5vh;
+}
+
+.mainPage__rightArea__sun {
+    width: 300px;
+}

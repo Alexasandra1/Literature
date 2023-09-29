@@ -1,0 +1,11 @@
+.input__input{
+    width: 300px;
+    height: 30px;
+    background-color: aqua;
+    border: 1px solid #17206600;
+    :active {
+        background-color: rgb(18, 42, 42);
+        border: none;
+    }
+}
+
