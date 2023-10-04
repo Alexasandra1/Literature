@@ -25,8 +25,11 @@
     line-height: normal;
 }
 
-.button__button :hover{
-    background: #bd4848;
+.button__button:hover{
+    transition: all 0.3s ease-in-out;
+    transform: scale(500ms);
+    background: #997373;
+    color: #e7dede;
 }
 
 // .hover :hover{

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YBGdaotHMBjQ9z7ck0Qif4BXPgvmPCyWXnnumbF/vxJTzbM4LRh1pdvjd1h5xW3/CkYoq7xyVHZ97DON7Co19g==",
+  "dgSpecHash": "oclsAecjcXXUnbmbjnftG1otuZnc+i73qd8Y2OFktKMc756UZXJGihfFz1BB2CyLLBX+S/aVSsl8dYL4kwH4HQ==",
   "success": true,
-  "projectFilePath": "D:\\БРУ\\ЛАБОРАТОРНЫЕ РАБОТЫ\\3 курс\\1сем\\трпо\\backend\\Literature.WebApi\\Literature.WebApi.csproj",
+  "projectFilePath": "D:\\БРУ\\ЛАБОРАТОРНЫЕ РАБОТЫ\\3 курс\\1сем\\трпо\\Program\\backend\\Literature.WebApi\\Literature.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Валерия Лангре\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Валерия Лангре\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
