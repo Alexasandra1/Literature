@@ -1,4 +1,5 @@
 import React, { useState } from "react"
+import { useNavigate } from "react-router-dom";
 import './MainPage.scss'
 import { getsmth } from "../../shared/api/apiMain"
 import { Input } from "../../shared/components/Input/Input";
@@ -7,6 +8,7 @@ import { Button } from "../../shared/components/Button/Button";
 
 export function MainPage() {
     const [unicorn, setUnicorn] = useState(null);
+    const navigate = useNavigate();
 
     async function handleClick() {
         const data = await getsmth();
@@ -17,6 +19,14 @@ export function MainPage() {
         name();
     }
 
+    async function handleRegistrationClick(){
+        navigate("/registration");
+    }
+
+    async function handleSingClick(){
+        navigate("/sing");
+    }
+
     return (
         <>
             <div className="mainPage__firstSection">
@@ -24,7 +34,10 @@ export function MainPage() {
                     <div className="mainPage__firstSection__leftArea__text">
                         <div className="mainPage__firstSection__leftArea__litlib">литлиб</div>
                         <div className="mainPage__firstSection__leftArea__regis">Регистрация</div>
-                        <Button className="zxc" size="normal" colorWord="redColor" back="hover" word="Войти" />
+                        <div className="mainPage__firstSection__leftArea__regis__buttons">
+                        <Button size="redButNormal" back="hover" word="Регистрация" onClick = {handleRegistrationClick}/>
+                        <Button size="normal" back="hover" word="Войти" onClick = {handleSingClick}/>
+                        </div>
                     </div>
                 </div>
                 <div className="mainPage__firstSection__rightArea">

@@ -5,6 +5,13 @@ export function RegistrationPage() {
 
 
     return (
-        <>мяк</>
+        <><div className="RegistrationPage__section">
+            <form className="RegistrationPage__section__form">
+                <div>
+                    мяк
+                </div>
+            </form>
+        </div>
+        </>
     )
 }

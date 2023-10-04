@@ -8,16 +8,25 @@
     height: 500px;
 }
 
+.redButNormal {
+    width: 247px;
+    height: 53px;
+    border-radius: 20px;
+    border-color: none;
+    background: rgba(119, 16, 16, 1);
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
 .normal {
     width: 135px;
     height: 53px;
-    flex-shrink: 0;
     border-radius: 20px;
     border-color: none;
     background: #D6D5D5;
-}
-
-.redColor {
     color: #771010;
     font-size: 20px;
     font-style: normal;
@@ -25,11 +34,18 @@
     line-height: normal;
 }
 
-.button__button:hover{
+.normal:hover {
     transition: all 0.3s ease-in-out;
     transform: scale(500ms);
     background: #997373;
     color: #e7dede;
+}
+
+.redButNormal:hover {
+    transition: all 0.3s ease-in-out;
+    transform: scale(500ms);
+    background: #481b1b;
+    color: #fedddd;
 }
 
 // .hover :hover{
