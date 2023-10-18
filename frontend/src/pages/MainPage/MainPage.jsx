@@ -1,7 +1,6 @@
 import React, { useState } from "react"
 import { useNavigate } from "react-router-dom";
 import './MainPage.scss'
-import { getsmth } from "../../shared/api/apiMain"
 import { Input } from "../../shared/components/Input/Input";
 import sun from "../../image/sun.png"
 import { Button } from "../../shared/components/Button/Button";
@@ -9,15 +8,6 @@ import { Button } from "../../shared/components/Button/Button";
 export function MainPage() {
     const [unicorn, setUnicorn] = useState(null);
     const navigate = useNavigate();
-
-    async function handleClick() {
-        const data = await getsmth();
-
-        function name() {
-            setUnicorn(data.data.unicorn);
-        }
-        name();
-    }
 
     async function handleRegistrationClick(){
         navigate("/registration");
@@ -41,7 +31,7 @@ export function MainPage() {
                     </div>
                 </div>
                 <div className="mainPage__firstSection__rightArea">
-                    <img src={sun} className="mainPage__rightArea__sun" />
+                    <img src={sun} className="mainPage__rightArea__sun" alt="sumImg"/>
                 </div>
             </div>
             <div className="mainPage__secondSection">

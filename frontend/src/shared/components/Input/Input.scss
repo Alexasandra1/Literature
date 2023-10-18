@@ -1,11 +1,39 @@
-.input__input{
-    width: 300px;
-    height: 30px;
-    background-color: aqua;
-    border: 1px solid #17206600;
-    :active {
-        background-color: rgb(18, 42, 42);
+@font-face {
+    font-family: 'Margarine';
+    src: url("https://fonts.cdnfonts.com/css/margarine") format('wolf2');
+}
+
+.input__input {
+    width: 369px;
+    height: 48px;
+    flex-shrink: 0;
+    background: #554B4B;
+    color: white;
+    font-family: Margarine, Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    // border: 1px solid #5d0d2100;
+    // border-radius: 0 !important;
+
+    &:focus {
+        background-color: #645e5e;
         border: none;
+        // border-radius: 0 !important;
     }
 }
 
+.input__label {
+    color: #A8A6A6;
+    font-family: Margarine, Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}
+
+.bottom{
+    margin-bottom: 5vh;
+}
