@@ -4,11 +4,13 @@ import { BrowserRouter, Routes, Route, Navigate} from "react-router-dom";
 import './../src/App.scss';
 import { RegistrationPage } from './pages/RegistrationPage/RegistrationPage';
 import { SingPage } from './pages/SingPage/SingPage';
+import{Toaster} from "react-hot-toast";
 
 export class App extends React.Component{
   render() {
     return(
       <>
+      <Toaster/>
         <div className="app__pages">
           <BrowserRouter>
             <Routes>

@@ -23,7 +23,7 @@ namespace Literature.WebApi.Controllers
         }
 
         [HttpPost("login")]
-        public async Task<IActionResult> Login(LoginDTO loginDTO)
+        public async Task<IActionResult> Login([FromBody] LoginDTO loginDTO)
         {
             var user = await userManager.FindByNameAsync(loginDTO.Login);
 
