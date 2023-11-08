@@ -1,0 +1,36 @@
+footer {
+    background: linear-gradient(180deg, #030101 0%, #090909 100%);
+    width: 100%;
+    height: 250px;
+    font-family: Margarine, Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    .footer__container {
+        display: flex;
+        flex-direction: row;
+        gap: 40vh;
+        color: #B2B2B2;
+        font-size: 2vh;
+        padding: 20vh 0 8vh 15vh;
+    }
+
+    .footer__container__tag {
+        color: #A58383;
+        font-size: 15px;
+        padding-left: 3vh;
+    }
+}
+
+.footer__container__text {
+    display: flex;
+    flex-direction: row;
+    gap: 11vh;
+
+}
+
+.footer__container__social {
+    display: flex;
+    gap: 5vh;
+}

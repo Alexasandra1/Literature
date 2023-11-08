@@ -26,7 +26,7 @@ export function Input(props) {
                 autoComplete={props.autoComplete}
                 {...registerProps}/>
             
-            <span className="input__erroe">
+            <span className="input__error">
                 {props.error?.message}
             </span>
         </div>

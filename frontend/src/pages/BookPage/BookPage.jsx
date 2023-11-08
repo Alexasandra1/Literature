@@ -1,54 +1,60 @@
 import React, { useState } from "react"
 import { useNavigate } from "react-router-dom";
-import './MainPage.scss'
-import sun from "../../image/sun.png"
-import { Button } from "../../shared/components/Button/Button";
+import './BookPage.scss';
+// import {UsePApi.js} from './src/shared/api/userApi.js';
+import picture from "../../image/basicBook.png";
+import { Header } from "../../shared/components/Header/Header";
+import { Text } from "../../shared/components/Text/Text";
+import { Footer } from "../../shared/components/Footer/Footer";
 
-export function MainPage() {
-    const [unicorn, setUnicorn] = useState(null);
-    const navigate = useNavigate();
+export function BookPage() {
+    // const [unicorn, setUnicorn] = useState(null);
+    // const navigate = useNavigate();
 
-    async function handleRegistrationClick(){
-        navigate("/registration");
-    }
+    // async function handleRegistrationClick(){
+    //     navigate("/registration");
+    // }
 
-    async function handleSingClick(){
-        navigate("/sing");
-    }
+    // async function handleSingClick(){
+    //     navigate("/sing");
+    // }
 
     return (
         <>
-            <div className="mainPage__firstSection">
-                <div className="mainPage__firstSection__leftArea">
-                    <div className="mainPage__firstSection__leftArea__text">
-                        <div className="mainPage__firstSection__leftArea__litlib">литлиб</div>
-                        <div className="mainPage__firstSection__leftArea__regis">Регистрация</div>
-                        <div className="mainPage__firstSection__leftArea__regis__buttons">
-                        <Button size="redButNormal" back="hover" word="Регистрация" onClick = {handleRegistrationClick}/>
-                        <Button size="normal" back="hover" word="Войти" onClick = {handleSingClick}/>
+            <div className="bookPage">
+                <Header></Header>
+                <div className="bookPage__firstSection">
+                    {/* <div className="bookPage__firstSection__behindPic"><svg className="bookPage__firstSection__behindPic__svg"
+                        xmlns="http://www.w3.org/2000/svg" width="462" height="323" viewBox="0 0 462 323" fill="none">
+                        <path d="M386.282 3.16648L386.524 3.22806C409.191 9.01705 428.905 22.5787 442.413 39.7957L442.418 39.802C455.96 56.9959 463.358 77.8306 461.407 98.2546C459.447 118.767 448.428 134.973 432.205 144.581L432.203 144.582L135.599 321.248L0.00180977 302.822L29.1003 186.494L326.089 10.2946C342.201 0.574847 363.544 -2.56483 386.267 3.16212L386.282 3.16648ZM124.077 292.121L412.922 120.085C423.221 114.02 430.222 103.767 431.479 90.7792L431.479 90.7766L431.483 90.731C432.728 77.7011 428.027 64.4083 419.409 53.4224L419.413 53.4265C410.826 42.4694 398.291 33.8416 383.877 30.1604C369.414 26.4667 355.824 28.4596 345.594 34.66L345.479 34.7286L56.2675 206.322L37.7262 280.398L124.077 292.121ZM370.603 163.229L283.812 53.4138L306.781 39.7608L393.57 149.576L370.603 163.229ZM7.10053e-05 302.84L31.6767 176.214L47.7584 184.354C73.3617 197.447 94.6935 215.274 110.985 236.066L110.996 236.08C127.916 256.968 139.69 280.951 144.5 305.724L144.651 306.712L147.644 322.667L7.10053e-05 302.84ZM53.402 217.707L37.7288 280.362L110.775 290.161C105.643 275.451 98.0312 262.089 88.2722 250.041L88.2475 250.01L88.0287 249.733C78.6443 237.741 67.1677 226.996 54.1248 218.162L53.402 217.707ZM110.009 255.402L90.6818 230.947L329.028 89.2667L348.355 113.722L110.009 255.402Z" fill="#232020" fill-opacity="0.31" />
+                    </svg></div> */}
+                    <div className="bookPage__firstSection__textManhva">Manhva</div>
+                </div>
+                <div className="bookPage__secondSection">
+                    <div className="bookPage__secondSection__leftArea">
+                        <img src={picture} className="bookPage_secondSection__leftArea__pictuture" alt="pictureImg" />
+                    </div>
+                    <div className="bookPage__secondSection__rightarea">
+                        {/* <Text color="red" word="Завораживающая красота"></Text> */}
+                        <div className="bookPage__secondSection__rightarea__textFirst">
+                            <div className="bookPage__secondSection__rightarea__textFirst__beauty">Завораживающая красота</div>
+                            <div className="bookPage__secondSection__rightarea__textFirst__text">Окунитесь в удивительный мир манхвы с нашим разнообразием картинок!</div>
                         </div>
+                        <div className="bookPage__secondSection__rightarea__textSecond">
+                            <div className="bookPage__secondSection__rightarea__textSecond__choise">Широкий выбор</div>
+                            <div className="bookPage__secondSection__rightarea__textSecond__text">Эксклюзивная подборка манхва-картинок для ваших друзей и знакомых.</div>
+                        </div>
+                        <div className="bookPage__secondSection__rightarea__textThird">
+                            <div className="bookPage__secondSection__rightarea__textThird__character">Любимые герои</div>
+                            <div className="bookPage__secondSection__rightarea__textThird__text">Найдите своих любимых персонажей среди впечатляющего множества манхв!</div>
+
+                        </div>
+                        <div></div>
                     </div>
                 </div>
-                <div className="mainPage__firstSection__rightArea">
-                    <img src={sun} className="mainPage__rightArea__sun" alt="sumImg"/>
-                </div>
-            </div>
-            <div className="mainPage__secondSection">
-                <div className="mainPage__secondSection_textAccount">Заводите учетку!</div>
-                <div className="mainPage__secondSection_twoText">
-                    <div className="mainPage__secondSection_twoText__Go">Вперед, шагайте в удивительный мир историй с нами!</div>
-                    <div className="mainPage__secondSection_twoText__Regist">Зарегистрируйтесь и получите доступ к самым впечатляющим историям манги вместе с нами!</div>
-                </div>
-            </div>
-            <div className="mainPage__thirdSection">
-                <div className="mainPage__thirdSection_textCollab">Сотрудничество с лучшими издательствами</div>
-                <div className="mainPage__thirdSection_threeText">
-                    <div className="mainPage__thirdSection_threeText__mangaMaster">Манга Мастер</div>
-                    <div className="mainPage__thirdSection_threeText__comics">Комикс Точка</div>
-                    <div className="mainPage__thirdSection_threeText__story">История Волшебства</div>
-                </div>
-            </div>
-            <div className="mainPage__footer">
+            </div >
+            <Footer></Footer>
+            {/* <div className="mainPage__footer">
                 <div className="mainPage__footer__container">
                     <div className="mainPage__footer__container__text">
                         <div className="mainPage__footer__container__text__aboutUs">о нас</div>
@@ -77,7 +83,7 @@ export function MainPage() {
                     <div className="mainPage__footer__container__tag__text">© 2023 МангаМира. Все права принадлежат волшебникам в круглых очках.</div>
                 </div>
 
-            </div>
+            </div> */}
 
         </>
     )
